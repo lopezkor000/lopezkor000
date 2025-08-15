@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on being Vice President of [IEEE ESB](https://ieee-esb.org)
+- 🌱 I’m currently learning about ML / AI, getting started on it
+- 👯 I’m looking to collaborate on any project, always happy to apply my expertise in full stack web development and learn something new
+- 🤔 I’m looking for help with getting started and navigating my Masters in Computer Science program
+- 💬 Ask me about my undergraduate experience, I'm happy to share my journey
+- 📫 How to reach me: [email](mailto:koriellopez03@gmail.com)
+- ⚡ Fun fact: I have a cute puppy named Teddy
